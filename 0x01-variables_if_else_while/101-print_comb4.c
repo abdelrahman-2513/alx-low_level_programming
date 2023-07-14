@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - Entry point 
+ * main - Entry point
  * Return: Always return 0 (Success)
  */
 int main(void)
@@ -16,7 +16,7 @@ int main(void)
 	{
 		for (j = i + 1; j < 58; j++)
 		{
-			for (z = j + 1; z < 58; z++)
+			for (z = j + 1; z i< 58; z++)
 			{
 				putchar(i);
 				putchar(j);
